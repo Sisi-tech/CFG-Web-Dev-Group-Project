@@ -291,6 +291,14 @@ legend, p {
     width: 1000px;
 }
 
+@media screen and (max-width: 720px) {
+    .form input {
+        width: 400px;
+    }
+    .mb-3 {
+        width: 400px;
+    }
+}
 
 
 /* footer */
