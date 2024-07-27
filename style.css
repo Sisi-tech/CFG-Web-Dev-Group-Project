@@ -124,6 +124,10 @@ img {
 }
 
 @media screen and (max-width: 720px) {
+    .nav-container {
+        margin-left: 0;
+        justify-content: center;
+    }
     .nav-bar-container {
         font-size: 24px;
     }
@@ -137,6 +141,9 @@ img {
         justify-content: center;
         align-items: center;
         text-align: center;
+    }
+    .navbar .icons {
+        display: none;
     }
 }
 
@@ -162,6 +169,9 @@ img {
 .container2-images {
     display: flex;
     gap: 24px;
+}
+.container2-images img:hover {
+    scale: calc(110%);
 }
 
 .container2 img {
