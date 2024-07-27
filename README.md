@@ -25,11 +25,11 @@ The following **‘MUST HAVE’  REQUIREMENTS** is completed:
 
 ## Video Walkthrough
 <div>
-    <a href="https://www.loom.com/share/7483faf8c1354829988def52758ad0c1">
+    <a href="https://www.loom.com/share/49b6df855c374906aa28a7ffbc7ea142">
       <p>CFG-Web-Dev-Project - 27 July 2024 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/7483faf8c1354829988def52758ad0c1">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7483faf8c1354829988def52758ad0c1-5a46ad974a9fb485-full-play.gif">
+    <a href="https://www.loom.com/share/49b6df855c374906aa28a7ffbc7ea142">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/49b6df855c374906aa28a7ffbc7ea142-b6535935ec86ecc7-full-play.gif">
     </a>
   </div>
 
