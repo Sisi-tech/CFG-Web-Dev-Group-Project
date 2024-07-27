@@ -28,6 +28,9 @@ The following **‘MUST HAVE’  REQUIREMENTS** is completed:
     <a href="https://www.loom.com/share/7483faf8c1354829988def52758ad0c1">
       <p>CFG-Web-Dev-Project - 27 July 2024 - Watch Video</p>
     </a>
+    <a href="https://www.loom.com/share/7483faf8c1354829988def52758ad0c1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7483faf8c1354829988def52758ad0c1-5a46ad974a9fb485-full-play.gif">
+    </a>
   </div>
 
 
