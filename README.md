@@ -24,12 +24,11 @@ The following **‘MUST HAVE’  REQUIREMENTS** is completed:
 
 
 ## Video Walkthrough
-<p>Will add recorded video/gif here</p>
 <div>
-    <a href="#">
-      <img style="max-width:300px;" src="#">
+    <a href="https://www.loom.com/share/7483faf8c1354829988def52758ad0c1">
+      <p>CFG-Web-Dev-Project - 27 July 2024 - Watch Video</p>
     </a>
-</div>
+  </div>
 
 
 ## License
