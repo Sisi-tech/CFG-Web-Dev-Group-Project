@@ -14,14 +14,16 @@ The following **‘MUST HAVE’  REQUIREMENTS** is completed:
 - [x] **Adhering to UI/UX rules **
 
 ‘NICE TO HAVE’ REQUIREMENTS
-- [ ] All of the ‘Must Have criteria’
-- [ ] Mobile responsive website
-- [ ] Effective use of classes and IDs
-- [ ] JavaScript used to enable user interaction 
+- [x] All of the ‘Must Have criteria’
+- [x] Mobile responsive website
+- [x] Effective use of classes and IDs
+- [x] JavaScript used to enable user interaction 
 
 ## website wireframe
 ![Project Image](Images/Wireframe.jpg)
 
+## Website
+https://cfg-web-dev-project-from-ida-sisi.netlify.app/
 
 ## Video Walkthrough
 <div>
